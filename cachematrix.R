@@ -1,8 +1,8 @@
-
+## This Code has been written by Datatowisdom with help from Coursera community
 ## functions for calculating Matrix Inverse in a optimized manner
 
 ##  This function creates a special "matrix" object that can cache its inverses. 
-##  
+## makeCacheMatrix includes Getter and Setter Methods to save and retrieve values  
 
 makeCacheMatrix <- function(x = matrix()) {
   
